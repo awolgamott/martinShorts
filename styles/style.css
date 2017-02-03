@@ -1,0 +1,19 @@
+*{
+	box-sizing: border-box;
+}
+
+img {
+	max-width: 100%;
+}
+
+h1	{
+	font-family: impact;
+    font-size: 157px;
+    text-align: center;
+}
+.container {
+	text-align: center;
+}
+.shorts-box {
+
+}
